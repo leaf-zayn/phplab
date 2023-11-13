@@ -1,0 +1,14 @@
+h1 { text-align: center; }
+
+.lefthdr td { text-align: right; }
+.timeleft   { text-align: center; color: blue; }
+
+.hidden  { display: none; }
+.shown   { display: inline; }
+
+.error { background-color: #ffe0e0; }
+
+.compactList { 
+    margin-top:1px;
+    margin-bottom:0px;
+}
